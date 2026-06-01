@@ -11,11 +11,7 @@
         <p class="text-xl mb-6">
           Discover the beauty of Rwanda with Tembera Urwanda Project
         </p>
-        <button
-          class="bg-green-700 hover:bg-green-800 px-6 py-3 rounded-lg text-lg"
-        >
-          Explore Now
-        </button>
+        
       </div>
     </section>
 

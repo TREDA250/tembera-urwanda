@@ -6,9 +6,7 @@
       class="h-96 bg-cover bg-center flex items-center justify-center"
       style="background-image: url('https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce?q=80&w=1600&auto=format&fit=crop');"
     >
-      <div class="bg-green bg-opacity-60 p-8 rounded-xl text-center">
-        <h1 class="text-5xl text-green-500 font-bold">About Rwanda Tourism</h1>
-      </div>
+  
     </section>
 
     <!-- About Content -->

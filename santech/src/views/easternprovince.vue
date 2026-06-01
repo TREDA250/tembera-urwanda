@@ -1,8 +1,8 @@
 <template>
   <div class="bg-gray-100 min-h-screen py-10">
     <div class="container mx-auto px-6">
-      <h1 class="text-5xl font-bold text-center text-blue-700 mb-8">
-        Southern Province
+      <h1 class="text-5xl font-bold text-center text-yellow-600 mb-8">
+        Eastern Province
       </h1>
 
       <div class="grid md:grid-cols-3 gap-8">
@@ -25,19 +25,19 @@
 <script setup>
 const destinations = [
   {
-    name: "Nyungwe Forest",
-    image: "src/assets/nyungwe.png",
-    description: "Ancient rainforest famous for canopy walks and chimpanzees."
+    name: "Akagera National Park",
+    image: "https://images.unsplash.com/photo-1549366021-9f761d450615",
+    description: "Rwanda's Big Five safari destination."
   },
   {
-    name: "King's Palace Museum",
-    image: "src/assets/ingoro.jpg",
-    description: "Traditional royal residence preserving Rwanda's heritage."
+    name: "Lake Muhazi",
+    image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    description: "A peaceful lake ideal for relaxation and boating."
   },
   {
-    name: "Ethnographic Museum",
-    image: "src/assets/Ethnographic.jpg",
-    description: "One of Africa's finest cultural museums."
+    name: "Gahini",
+    image: "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    description: "Beautiful landscapes and cultural experiences."
   }
 ]
 </script>

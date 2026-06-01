@@ -16,11 +16,11 @@
     <li class="group relative">
         <a href="#" class="hover:text-yellow-300 cursor-">Destinations<span> ▼</span></a>
             <ul class="invisible group-hover:visible opacity-0 group-hover:opacity-100 absolute bg-white text-green-900 rounded shadow w-48 z-50 pt-2" style="top: 100%">
-           <li ><a href="#" class="block px-4 py-2  text-green-900 hover:bg-green-200">Northern Province</a></li>
-           <li ><a href="#" class="block px-4 py-2  text-green-900 hover:bg-green-200">Southern Province</a></li>
-           <li ><a href="#" class="block px-4 py-2  text-green-900 hover:bg-green-200">Kigali City</a></li>
-           <li ><a href="#" class="block px-4 py-2  text-green-900 hover:bg-green-200">Eastern</a></li>
-           <li ><a href="#" class="block px-4 py-2  text-green-900 hover:bg-green-200">Western</a></li>
+           <li ><a href="/NorthernProvince" class="block px-4 py-2  text-green-900 hover:bg-green-200">Northern Province</a></li>
+           <li ><a href="/southernprovince" class="block px-4 py-2  text-green-900 hover:bg-green-200">Southern Province</a></li>
+           <li ><a href="/Kigalicity" class="block px-4 py-2  text-green-900 hover:bg-green-200">Kigali City</a></li>
+           <li ><a href="/easternprovince" class="block px-4 py-2  text-green-900 hover:bg-green-200">Eastern</a></li>
+           <li ><a href="/Westernprovince" class="block px-4 py-2  text-green-900 hover:bg-green-200">Western</a></li>
         </ul>
     </li>
     <li><a href="/Contact" class="hover:text-yellow-300 cursor-">Contact</a></li>
